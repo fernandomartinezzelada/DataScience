@@ -1,0 +1,1 @@
+RESISTENCIA = [60, 100]
